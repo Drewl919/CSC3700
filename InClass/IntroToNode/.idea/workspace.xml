@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398e8385-f18d-4a85-a0b6-a4efbd414cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrowFunctions_9_15/driveArrow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrowFunctions_9_15/js/arrowWork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BooksDemo_9_13/books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BooksDemo_9_13/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BooksDemo_9_13/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BooksDemo_9_13/js/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="889dc79c-1b0d-4a96-af59-e0eac89dbcf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/firstOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/ArrowFunctions_9_15/driveArrow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/ArrowFunctions_9_15/js/arrowWork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/BooksDemo_9_13/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/BooksDemo_9_13/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/BooksDemo_9_13/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/BooksDemo_9_13/js/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,27 +23,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2VG0VnAlIEhFVDWBkYdSrleOvGL" />
+  <component name="ProjectId" id="2VROTYnIp4VuFamI5MyVzVmg6cZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3700/InClass/week3/js",
-    "list.type.of.created.stylesheet": "CSS",
+    "javascript.nodejs.core.library.configured.version": "20.6.1",
+    "javascript.nodejs.core.library.typings.version": "20.6.1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,27 +50,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BooksDemo_9_13/imgs" />
-      <recent name="$PROJECT_DIR$/BooksDemo_9_13/css" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="398e8385-f18d-4a85-a0b6-a4efbd414cf0" name="Changes" comment="" />
-      <created>1694447136246</created>
+      <changelist id="889dc79c-1b0d-4a96-af59-e0eac89dbcf8" name="Changes" comment="" />
+      <created>1694795434513</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694447136246</updated>
-      <workItem from="1694447137278" duration="3571000" />
-      <workItem from="1694620698728" duration="3411000" />
-      <workItem from="1694792776668" duration="2655000" />
+      <updated>1694795434513</updated>
+      <workItem from="1694795435595" duration="962000" />
     </task>
     <servers />
   </component>
