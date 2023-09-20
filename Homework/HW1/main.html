@@ -3,8 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/getData.js" type="application/javascript"></script>
 </head>
-<body>
-
+<body onload="getOptions()">
+    <header>
+        <span class="banner">
+            <nav>
+                <ul>
+                    <li> <a href="#" style="color: yellow"> Home </a></li>
+                    <li> <a href="about.html"> About </a></li>
+                </ul>
+            </nav>
+            <h2 class="title">LOTR Favorites</h2>
+        </span>
+    </header>
+    <div id="selchar">
+        <h2> Select a Character </h2>
+        <table>
+            <tr>
+                <td style="font-size: 20px; padding: 2px"><u>Select Character</u></td>
+            </tr>
+            <tr>
+                <td>
+                    <label>
+                        <select style="margin-left: 12px">
+                            <span id="options"></span>
+                        </select>
+                    </label>
+                </td>
+            </tr>
+        </table>
+        <button onclick="alert('Button Clicked!')" id="characterButton">Show Character Info</button>
+    </div>
+    <div id="results">
+        <h2>Results are here</h2>
+    </div>
 </body>
 </html>

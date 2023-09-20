@@ -1,0 +1,60 @@
+table, td, th {
+    border: 1px solid brown;
+    border-collapse: collapse;
+}
+header {
+    border: 2px solid black;
+    display: flex;
+}
+.banner {
+    height: 120px;
+    background-color: cornflowerblue;
+    top: 1px;
+    width: 100%;
+}
+.title {
+    color: blueviolet;
+    font-size: 32px;
+    font-weight: bold;
+    position: fixed;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+nav ul {
+    position: fixed;
+    list-style-type: none;
+    padding: 20px;
+    display: flex;
+    margin-left: 6%;
+}
+nav li {
+    margin-right: 5px;
+    border: solid 1px;
+    background-color: cyan;
+    width: 130px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+#selchar {
+    border: 1px solid black;
+    width: 20%;
+    background-color: yellow;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    padding: 12px;
+}
+#characterButton {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+#results {
+    border: 1px solid black;
+    float: left;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: moccasin;
+    padding: 12px;
+}

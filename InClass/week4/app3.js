@@ -11,6 +11,7 @@ http.createServer( function (req, res) {
         if( err ){
             res.writeHead( 404, {'Content-type': 'text/html'});
             res.end(`Error File not found`);
+            return;
         }
         res.writeHead( 200, {'Content-type': 'text/html'});
         res.write(data);
