@@ -1,3 +1,6 @@
+// Andrew Musielak
+// CSC-3700-01-23FA
+
 let allData;
 
 function getOptions() {
