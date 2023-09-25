@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398e8385-f18d-4a85-a0b6-a4efbd414cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/aragon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/boromir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/frodo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/gandalf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/gimili.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/legolis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/HW1/img/sam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/assets/players2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/express1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/myLogger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/parseJsonInClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4/runLogger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week4/app3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/app3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week4/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../week4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/aragon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/aragon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/boromir.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/boramir.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/frodo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/frodo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/gandalf.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/gandalf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/gimili.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/gimili.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/legolis.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/legolas.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/img/sam.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/img/sam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework/HW1/js/getData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework/HW1/js/getData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +30,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VG0VnAlIEhFVDWBkYdSrleOvGL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,6 +77,7 @@
       <workItem from="1694620698728" duration="3411000" />
       <workItem from="1694792776668" duration="2655000" />
       <workItem from="1695233791172" duration="54000" />
+      <workItem from="1695661978799" duration="15000" />
     </task>
     <servers />
   </component>
