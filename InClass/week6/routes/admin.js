@@ -12,7 +12,13 @@ router.post(  '/product', (req, res, next) => {
     // console.log( req );
     console.log("----flag")
     let t = req.body.title;
-    products.push( {title: t})
+    let a = req.body.author;
+    let p = req.body.price;
+    products.push( {
+        title: t,
+        author: a,
+        price: p
+    })
     res.redirect('/add-product')
     // res.send(`Made it to post title:${t}`);
 });

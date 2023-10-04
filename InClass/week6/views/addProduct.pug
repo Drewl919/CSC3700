@@ -1,5 +1,20 @@
-include layouts/layout1
-h2  Add New Product
-form(action='/product' method='post')
-    input(type='text' name='title')
-    button(type='submit') Add Product
+include layouts/layoutBS
+h2  Add New Book
+//.col-md-2.pd-3
+//    form(action='/product', method='post')
+//        input(type='text', name='title')
+//        input(type='text', name='author')
+//        input(type='text', name='price')
+//        button(type='submit') Add Book
+.container
+    .row
+        form(action='/product', method='post').col
+            label(for='title') Tile
+            input#title.form-control(type='text', name='title', placeholder='Enter title')
+
+            label(for='author') Author
+            input#author.form-control(type='text', name='author', placeholder='Enter author')
+
+            label(for='price') Price
+            input#price.form-control(type='text', name='price', placeholder='Enter price')
+            button.btn.btn-primary(type='submit') Add Book
