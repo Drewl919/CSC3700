@@ -1,22 +1,21 @@
 include layouts/layoutBS
+.container
+    h1.mt-4
+    h1.mt-4 #{title}
+    p
 
-h2 #{title}
-
-if products.length == 0
-    h2 Sorry no current books
-else
-    h2 Current Books
-    .container
-        .row
-            table.table.table-dark.col
-                thead
+    if products.length == 0
+        h2 Sorry no current products
+    else
+        table.table.table-striped
+            thead
+                tr
+                    th(scope='col') Title
+                    th(scope='col') Author
+                    th(scope='col') Price
+            tbody
+                each p in products
                     tr
-                        th Title
-                        th Author
-                        th Price
-                tbody
-                each b in products
-                    tr
-                        td= b.title
-                        td= b.author
-                        td= b.price
+                       td= p.title
+                       td= p.author
+                       td= p.price

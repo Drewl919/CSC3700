@@ -1,20 +1,19 @@
 include layouts/layoutBS
-h2  Add New Book
-//.col-md-2.pd-3
-//    form(action='/product', method='post')
-//        input(type='text', name='title')
-//        input(type='text', name='author')
-//        input(type='text', name='price')
-//        button(type='submit') Add Book
 .container
-    .row
-        form(action='/product', method='post').col
-            label(for='title') Tile
-            input#title.form-control(type='text', name='title', placeholder='Enter title')
-
-            label(for='author') Author
-            input#author.form-control(type='text', name='author', placeholder='Enter author')
-
-            label(for='price') Price
-            input#price.form-control(type='text', name='price', placeholder='Enter price')
-            button.btn.btn-primary(type='submit') Add Book
+    h1.mt-3
+    div.mt-3
+        h1 Add New Book
+        p
+            | Add a new Book into our inventory
+    div.mt-2
+        form(action='/product' method='post')
+            .form-group
+                label(for='titleId') Title
+                input.form-control(type='text' aria-describedby='emailHelp' id='titleId' name='title' placeholder='Enter title')
+            .form-group
+              label(for='authorId') Author
+              input.form-control(type='text' aria-describedby='emailHelp' id='authorId' name='author')
+            .form-group
+                label(for='priceId') Price
+                input.form-control(type='text' aria-describedby='emailHelp' id='priceId' name='price')
+            button.btn.btn-primary(type='submit') Submit
