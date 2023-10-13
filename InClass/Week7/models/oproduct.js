@@ -1,6 +1,3 @@
-const adminData = require("fs");
-const Product = require("path");
-
 const products = [];
 
 module.exports = class Product {

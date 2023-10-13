@@ -1,6 +1,6 @@
 const adminData = require("../routes/admin");
+// const Product = require("../models/oproduct");
 const Product = require("../models/product");
-
 // let products = [];
 exports.getAddProduct = ( req, res, next) => {
     res.render( 'admin/addProduct',
@@ -19,7 +19,7 @@ exports.postAddProduct = ( req, res, next) => {
     //     author: a,
     //     price: p
     // })
-    res.redirect('add-product')
+    res.redirect('/add-product')
 }
 exports.getProducts = ( req, res, next ) => {
     // const products = Product.fetchAll();
@@ -28,12 +28,11 @@ exports.getProducts = ( req, res, next ) => {
     //     from: 'showProducts',
     //     products : products
     // });
-    Product.fetchAll( products => {
+     Product.fetchAll( products => {
         res.render( 'admin/showProductsAdmin', {
             title: "Show Available Products",
             from: 'showProducts',
             products : products
         });
     });
-
 }
