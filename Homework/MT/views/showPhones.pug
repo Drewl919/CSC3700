@@ -1,0 +1,27 @@
+include layouts/mainLayout
+
+.container
+    h1.mt-4
+    h1.mt-4 #{title}
+
+    if inventory.length == 0
+        h2 Sorry, there are currently no phones available
+    else
+        table.table.table-striped
+            thead
+                tr
+                    th(scope='col') Manufacturer
+                    th(scope='col') Item
+                    th(scope='col') Price
+                    th(scope='col')
+            tbody
+                each i in inventory
+                    if i.id !== 0
+                        tr
+                            td= i.manufact
+                            td= i.item
+                            td= i.price
+                            td
+                                form(method='get' action='/showDetails/' + i.id)
+                                    button( type='submit' class='btn btn-primary') Item Details
+                            td

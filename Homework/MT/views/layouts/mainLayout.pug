@@ -1,0 +1,26 @@
+head
+    title  My App
+    link(href='/css/bootstrap.css' rel='stylesheet')
+    script(src='/js/bootstrap.js' type='application/javascript')
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.static-top
+    .container
+        a.navbar-brand(href='#')
+            if details
+                img(src='../imgs/dilbert.png' alt='My Logo' height='50')
+            else
+                img(src='imgs/dilbert.png' alt='My Logo' height='50')
+        button.navbar-toggler(type='button' data-bs-toggle='collapse' data-bs-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation')
+            span.navbar-toggler-icon
+        #navbarSupportedContent.collapse.navbar-collapse
+            ul.navbar-nav.ms-auto
+                if from == 'showPhones'
+                    li.nav-item
+                        a.nav-link.active(aria-current='page' href='/showPhones') Show Phones
+                    li.nav-item
+                        a.nav-link(href='/home') Home
+                else
+                    li.nav-item
+                        a.nav-link(href='/showPhones') Show Phones
+                    li.nav-item
+                        a.nav-link.active(aria-current='page' href='/home') Home

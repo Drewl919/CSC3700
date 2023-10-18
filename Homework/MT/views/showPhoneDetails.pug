@@ -1,0 +1,34 @@
+include layouts/mainLayout
+
+.container
+    h1.mt-4
+    h1.mt-4 #{title}
+
+    if (ids.includes(id) && !(id==0))
+        each i in inventory
+            if id == i.id
+                if i.sale > 0
+                    h2(style='background-color:Yellow;') This item is on sale #{i.sale}% off
+                table.table.table-striped
+                    thead
+                        tr
+                            th(scope='col') Manufacturer
+                            th(scope='col') Item
+                            th(scope='col') Price
+                            th(scope='col') Available
+                            th(scope='col') Description
+                            th(scope='col') Colors
+                    tbody
+                        tr
+                            td= i.manufact
+                            td= i.item
+                            td= i.price
+                            td= i.avail
+                            td= i.descr
+                            td= ol
+                                each c in i.colors
+                                    li= c
+    else
+        h2 No Details About This Phone!
+    form( method='get' action='/home')
+        button( type='submit' class='btn btn-primary') Back Home
