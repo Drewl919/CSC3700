@@ -4,30 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4933d67-3e94-4b57-826e-a99c67f13278" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="743442f9-5a9b-44ca-84ef-2e60f1660560" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RestPrep/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/setupTests.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../week10/DaProducts_11_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestPrep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestPrep/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2XUP18HkOOXrBCW49aYbB3rsld2" />
+  <component name="ProjectId" id="2Xa9SdZaJdUhbLodRtPyNoyudHd" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -38,14 +52,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3700/InClass/week10&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,22 +64,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../week10" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4933d67-3e94-4b57-826e-a99c67f13278" name="Changes" comment="" />
-      <created>1698680468022</created>
+      <changelist id="743442f9-5a9b-44ca-84ef-2e60f1660560" name="Changes" comment="" />
+      <created>1698856324980</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698680468022</updated>
-      <workItem from="1698680469113" duration="3017000" />
-      <workItem from="1698854147884" duration="1598000" />
-      <workItem from="1698856055831" duration="235000" />
+      <updated>1698856324980</updated>
+      <workItem from="1698856326026" duration="993000" />
+      <workItem from="1698858291472" duration="1000" />
     </task>
     <servers />
   </component>
