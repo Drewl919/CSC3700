@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="743442f9-5a9b-44ca-84ef-2e60f1660560" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../RestPrep/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-app/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week10/DaProducts_11_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RestPrep/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestPrep/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="743442f9-5a9b-44ca-84ef-2e60f1660560" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +52,7 @@
       <updated>1698856324980</updated>
       <workItem from="1698856326026" duration="993000" />
       <workItem from="1698858291472" duration="1000" />
+      <workItem from="1699026377506" duration="58000" />
     </task>
     <servers />
   </component>
