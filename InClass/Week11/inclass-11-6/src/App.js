@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navs from "./Navs";
 import {Col, Row} from "react-bootstrap";
-import Home from "./Home";
+import Home2 from "./Home2";
 import Books from "./Books";
 
 
@@ -12,9 +12,10 @@ function App() {
       <Navs />
         <Row>
           <Col sm={2}> Hey </Col>
-          <Col sm={10}>
-            <Home />
+          <Col sm={8}>
+            <Home2 />
           </Col>
+          <Col sm={2}> Hey </Col>
         </Row>
     </div>
   );
