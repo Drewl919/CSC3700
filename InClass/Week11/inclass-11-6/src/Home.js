@@ -1,34 +1,34 @@
 import React, {useState} from 'react';
-import Books from "./Books";
-import {Button} from "react-bootstrap";
+import Books from "Books";
+import {Button} from "bootstrap-react";
 
 function Home(props) {
     const likes = 500;
     // const name = "Bruce";
     const oName = "Hulk";
     const origName = "Bruce";
-    const [name, setName] = useState(oName);
-    const handleClick = () => {
-        console.log("Well that clicked my off");
-    }
+    const [ name, setName ] = useState( oName );
 
-    const handleClick2 = (name) => {
-        console.log(`Well ${name} that clicked my off`);
-        if( name === origName) {
+    const handleClick = () =>  {
+        console.log( "Well that clicked my off")
+    }
+    const handleClick2 = ( name ) =>  {
+        console.log( `Well ${name} that clicked my off`);
+        if ( name === origName ) {
             name = oName;
-        } else if (name === oName) {
-            name = origName
+        } else if ( name == oName ){
+            name = origName;
         }
-        setName(name)
+        setName( name  );
     }
-
     return (
         <div>
             <h2> Welcome Home {name} </h2>
-            <p> So far this many {likes} on my page</p>
+            <p> So far this many {likes} on my page  </p>
             <Button onClick={handleClick} variant="primary"> Click Me </Button>
             <Button onClick={ () => {
-                handleClick2(name)}
+                    handleClick2(name )
+                }
             } variant="primary"> Click Me2 </Button>
             <Books />
         </div>
