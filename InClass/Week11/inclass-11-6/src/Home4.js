@@ -10,7 +10,7 @@ function Home4(props) {
     const [ isPending, setIdPending] = useState(true);
     const [ error, setError] = useState(null);
     useEffect(() => {
-        let url = "http://localhost:8000/books/23";
+        let url = "http://localhost:8000/books";
         setTimeout(() => {
             fetch(url)
                 .then(resp => {
