@@ -8,11 +8,12 @@ module.exports = class Product {
         // this.description = "It was good it was bad it was ugly";
     }
     save() {
-            return db.execute( 'insert into products (title, price, author) ' +
-                'values (?, ?, ?)',
-                [this.title, this.price, this.author ]
-            )
+        return db.execute( 'insert into products (title, price, author) ' +
+            'values (?, ?, ?)',
+            [this.title, this.price, this.author]
+        )
     }
+    //
     static delete( id ) {
         return db.execute( "delete from products where id = ?",
             [id]
@@ -24,9 +25,5 @@ module.exports = class Product {
     static findById( id ){
         return db.execute( "select * from products where id = ?",
             [id] );
-    }
-    update ( id ){
-        return db.execute( "UPDATE products SET price = ?, author = ?, title= ?  WHERE id = ?",
-            [this.price, this.author, this.title, id ] );
     }
 }

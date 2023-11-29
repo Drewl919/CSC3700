@@ -1,5 +1,7 @@
 const adminData = require("../routes/admin");
-const Product = require("../models/product");
+// const Product = require("../models/oproduct");
+const Product = require("../models/product_9_29");
+// let products = [];
 exports.getAddProduct = ( req, res, next) => {
     res.render( 'admin/addProduct',
         {

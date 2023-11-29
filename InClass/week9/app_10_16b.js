@@ -3,7 +3,14 @@ const app = express();
 app.set( 'view engine', 'pug'); // set engine
 app.set( 'views', 'views'); // set views
 const db = require("./util/database");
-
+// db.execute( "select * from products")
+//     .then( result => {
+//         console.log( "REsults=");
+//         console.log( result );
+//     })
+//     .catch( err => {
+//         console.log( "DB ERR:"); console.log( err );
+//     })
 const adminRoutes = require("./routes/admin");
 const shopRoutes = require("./routes/shop");
 
@@ -32,7 +39,7 @@ app.get('*', function(req, res){
        });
 })
 
-let port = 3024;
+let port = 3004;
 const server = http.createServer(app);
 server.listen( port );
 console.log( `Listening on http://localhost:${port}`);
