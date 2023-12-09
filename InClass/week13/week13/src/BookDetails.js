@@ -5,7 +5,7 @@ import {Table, Button} from "react-bootstrap";
 
 function BookDetails(props) {
     const {id} = useParams();
-    let url = `http://localhost:8000/books/${id}` ;
+    let url = `http://localhost:8000/books/${id}`;
     const {data : book, error, isPending} = useFetch( url );
     const history = useHistory();
     const handleClick = () => {

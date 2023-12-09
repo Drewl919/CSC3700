@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="053f4917-d55c-4c06-99fe-9e76e66285d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new_week13/week13/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week14_Authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week14_Authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week13/week13/src/BookDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week13/week13/src/BookDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week13/week13/src/Books.js" beforeDir="false" afterPath="$PROJECT_DIR$/../week13/week13/src/Books.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,8 @@
       <workItem from="1700498639499" duration="873000" />
       <workItem from="1700500394192" duration="1603000" />
       <workItem from="1701103900273" duration="22000" />
+      <workItem from="1702095907208" duration="57000" />
+      <workItem from="1702098515088" duration="3685000" />
     </task>
     <servers />
   </component>

@@ -14,7 +14,8 @@ function Books () {
                 { error && <div> Error: {error} </div> }
                 {isPending && <div> Loading ...</div>}
                 { books && <BookList books={books} title={myTitle}/>}
-            </Col></Row>
+            </Col>
+        </Row>
     )
 }
 export default Books;

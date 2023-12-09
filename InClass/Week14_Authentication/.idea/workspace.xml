@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da2def9-1fba-4ad9-98c6-825bbc0ab26a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week14_Routers/router_work/src/components/Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week14_Routers/router_work/src/components/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week14_Routers/router_work/src/components/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week14_Routers/router_work/src/components/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Week14_Routers/router_work/src/components/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +76,7 @@
       <workItem from="1701448952085" duration="3117000" />
       <workItem from="1701708424173" duration="112000" />
       <workItem from="1701709075565" duration="2193000" />
+      <workItem from="1701899058195" duration="501000" />
     </task>
     <servers />
   </component>
