@@ -5,6 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da2def9-1fba-4ad9-98c6-825bbc0ab26a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../final/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/.idea/final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/controllers/controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/models/candles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/public/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/REST_SERVER/routes/candles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/ProductDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/ProductsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/candleLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/candles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/items/CreateItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/items/EditItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/items/Items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/items/ShowItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/items/TopItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final_react/src/useFetch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +131,10 @@
       <workItem from="1701708424173" duration="112000" />
       <workItem from="1701709075565" duration="2193000" />
       <workItem from="1701899058195" duration="501000" />
+      <workItem from="1702315848338" duration="1284000" />
+      <workItem from="1702318650333" duration="121000" />
+      <workItem from="1702323950292" duration="570000" />
+      <workItem from="1702324841170" duration="92000" />
     </task>
     <servers />
   </component>
